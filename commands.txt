@@ -1,0 +1,57 @@
+GAUTVENK-M-J489:visits gautvenk$ npx create-react-app client
+npx: installed 91 in 10.449s
+
+Creating a new React app in /Users/gautvenk/docker-ws/visits/client.
+
+Installing packages. This might take a couple of minutes.
+Installing react, react-dom, and react-scripts...
+
+
+> fsevents@1.2.9 install /Users/gautvenk/docker-ws/visits/client/node_modules/chokidar/node_modules/fsevents
+> node install
+
+[fsevents] Success: "/Users/gautvenk/docker-ws/visits/client/node_modules/chokidar/node_modules/fsevents/lib/binding/Release/node-v64-darwin-x64/fse.node" is installed via remote
+
+> fsevents@1.2.9 install /Users/gautvenk/docker-ws/visits/client/node_modules/jest-haste-map/node_modules/fsevents
+> node install
+
+[fsevents] Success: "/Users/gautvenk/docker-ws/visits/client/node_modules/jest-haste-map/node_modules/fsevents/lib/binding/Release/node-v64-darwin-x64/fse.node" is installed via remote
+
+> core-js@2.6.9 postinstall /Users/gautvenk/docker-ws/visits/client/node_modules/babel-runtime/node_modules/core-js
+> node scripts/postinstall || echo "ignore"
+
+
+> core-js@3.2.1 postinstall /Users/gautvenk/docker-ws/visits/client/node_modules/core-js
+> node scripts/postinstall || echo "ignore"
+
++ react@16.10.2
++ react-dom@16.10.2
++ react-scripts@3.2.0
+added 1581 packages from 706 contributors and audited 904901 packages in 109.609s
+found 0 vulnerabilities
+
+
+Initialized a git repository.
+
+Success! Created client at /Users/gautvenk/docker-ws/visits/client
+Inside that directory, you can run several commands:
+
+  npm start
+    Starts the development server.
+
+  npm run build
+    Bundles the app into static files for production.
+
+  npm test
+    Starts the test runner.
+
+  npm run eject
+    Removes this tool and copies build dependencies, configuration files
+    and scripts into the app directory. If you do this, you can’t go back!
+
+We suggest that you begin by typing:
+
+  cd client
+  npm start
+
+Happy hacking!

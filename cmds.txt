@@ -1,0 +1,1442 @@
+    1  ssh gautvenk@sjc-ads-1403
+    2  ssh gautvenk@sjc-ads-1403
+    3  Skanda2018!
+    4  ssh gautvenk@sjc-ads-1403
+    5  ssh gautvenk@sjc-ads-1403
+    6  ssh gautvenk@sjc-ads-1403
+    7  ssh gautvenk@sjc-ads-1403
+    8  ssh gautvenk@sjc-ads-1403
+    9  ssh gautvenk@sjc-ads-1403
+   10  ssh gautvenk@sjc-ads-1403
+   11  ssh gautvenk@sjc-ads-1403
+   12  ssh gautvenk@sjc-ads-1403
+   13  ssh gautvenk@sjc-ads-1403
+   14  ssh gautvenk@sjc-ads-1403
+   15  ssh gautvenk@sjc-ads-1403
+   16  ssh gautvenk@sjc-ads-1403
+   17  vim add
+   18  ssh gautvenk@sjc-ads-1403
+   19  ssh gautvenk@sjc-ads-1403
+   20  ssh gautvenk@sjc-ads-1403
+   21  ssh gautvenk@sjc-ads-1403
+   22  ssh gautvenk@sjc-ads-1403
+   23  ssh gautvenk@sjc-ads-1403
+   24  ssh gautvenk@sjc-ads-1403
+   25  ssh gautvenk@sjc-ads-1403
+   26  ssh gautvenk@sjc-ads-1403
+   27  ssh gautvenk@sjc-ads-1403
+   28  ssh gautvenk@sjc-ads-1403
+   29  ssh gautvenk@sjc-ads-1403
+   30  ssh gautvenk@sjc-ads-1403
+   31  ssh gautvenk@sjc-ads-1403
+   32  ssh gautvenk@sjc-ads-1403
+   33  ssh gautvenk@sjc-ads-1403
+   34  ssh gautvenk@sjc-ads-1403
+   35  ssh gautvenk@sjc-ads-1403
+   36  ssh gautvenk@sjc-ads-1403
+   37  ssh gautvenk@sjc-ads-1403
+   38  ssh gautvenk@sjc-ads-1403
+   39  ssh gautvenk@sjc-ads-1403
+   40  ssh gautvenk@sjc-ads-1403
+   41  ssh gautvenk@sjc-ads-1403
+   42  ssh gautvenk@sjc-ads-1403
+   43  ssh gautvenk@sjc-ads-1403
+   44  ssh gautvenk@sjc-ads-1403
+   45  ssh gautvenk@sjc-ads-1403
+   46  ssh gautvenk@sjc-ads-1403
+   47     [Dm,./
+   48   
+   49  ssh gautvenk@sjc-ads-1403
+   50  ssh gautvenk@sjc-ads-1403
+   51  ssh gautvenk@sjc-ads-1403
+   52  ssh gautvenk@sjc-ads-1403
+   53  ssh gautvenk@sjc-ads-1403
+   54  ssh gautvenk@sjc-ads-1403
+   55  ssh gautvenk@sjc-ads-1403
+   56  ssh gautvenk@sjc-ads-1403
+   57  ssh gautvenk@sjc-ads-1403
+   58  ssh gautvenk@sjc-ads-1403
+   59  ssh gautvenk@sjc-ads-1403
+   60  ssh gautvenk@sjc-ads-1403
+   61  ssh gautvenk@sjc-ads-1403
+   62  ssh gautvenk@sjc-ads-1403
+   63  ssh gautvenk@sjc-ads-1403
+   64  ssh gautvenk@sjc-ads-1403
+   65  ssh gautvenk@sjc-ads-1403
+   66  ssh gautvenk@sjc-ads-1403
+   67  ssh gautvenk@sjc-ads-1403
+   68  ssh gautvenk@sjc-ads-1403
+   69  ssh gautvenk@sjc-ads-1403
+   70  ssh gautvenk@sjc-ads-1403
+   71  ssh gautvenk@sjc-ads-1403
+   72  ssh gautvenk@sjc-ads-1403
+   73  ssh gautvenk@sjc-ads-1403
+   74  ssh gautvenk@sjc-ads-1403
+   75  python --version
+   76  ssh gautvenk@sjc-ads-1403
+   77  ssh gautvenk@sjc-ads-1403
+   78  ssh gautvenk@sjc-ads-1403
+   79  ssh gautvenk@sjc-ads-1403
+   80  ssh gautvenk@sjc-ads-1403
+   81  ssh gautvenk@sjc-ads-1403
+   82  ssh gautvenk@sjc-ads-1403
+   83  ssh gautvenk@sjc-ads-1403
+   84  ssh gautvenk@sjc-ads-1403
+   85  ssh gautvenk@sjc-ads-1403
+   86  ssh gautvenk@sjc-ads-1403
+   87  ssh gautvenk@sjc-ads-1403
+   88  ssh gautvenk@sjc-ads-1403
+   89  ws
+   90  cd ws
+   91  ls
+   92  vim permute.py
+   93  python permute.py 
+   94  vim permute.py
+   95  cd ws
+   96  python permute.py
+   97  python permute.py
+   98  python permute.py
+   99  python permute.py
+  100  python permute.py
+  101  python permute.py
+  102  ssh gautvenk@sjc-ads-1403
+  103  ssh gautvenk@sjc-ads-1403
+  104  ssh gautvenk@sjc-ads-1403
+  105  ssh gautvenk@sjc-ads-1403
+  106  cd ~/Desktop/Graduation/ml4t/shared/mc3_p3/
+  107  ls
+  108  vim QLearner.py
+  109  vim testqlearner.py
+  110  vim QLearner.py
+  111  pwd
+  112  ls
+  113  vim permuteRecursive.py
+  114  vim subsetsRecursive.py
+  115  vim countPaths.py
+  116  pwd
+  117  python
+  118  python3
+  119  pwd
+  120  l
+  121  ls
+  122  python3 subsetsRecursive.py
+  123  python3 subsetsRecursive.py
+  124  python3 subsetsRecursive.py
+  125  python3 subsetsRecursive.py
+  126  python3 subsetsRecursive.py
+  127  python3 subsetsRecursive.py
+  128  python3 subsetsRecursive.py
+  129  python3 subsetsRecursive.py
+  130  python3 subsetsRecursive.py
+  131  python3 subsetsRecursive.py
+  132  python3 subsetsRecursive.py
+  133  python3 subsetsRecursive.py
+  134  python3 subsetsRecursive.py
+  135  python3 subsetsRecursive.py
+  136  python3 subsetsRecursive.py
+  137  python3 subsetsRecursive.py
+  138  python3 subsetsRecursive.py
+  139  python3 subsetsRecursive.py
+  140  python3 subsetsRecursive.py
+  141  python3 subsetsRecursive.py
+  142  python3 subsetsRecursive.py
+  143  python3 subsetsRecursive.py
+  144  python3 subsetsRecursive.py
+  145  python3 subsetsRecursive.py
+  146  python3
+  147  python3 subsetsRecursive.py
+  148  python3 subsetsRecursive.py
+  149  python3 subsetsRecursive.py
+  150  python3 subsetsRecursive.py
+  151  python3 subsetsRecursive.py
+  152  python3 subsetsRecursive.py
+  153  python3 subsetsRecursive.py
+  154  python3 subsetsRecursive.py
+  155  python3 subsetsRecursive.py
+  156  python3 subsetsRecursive.py
+  157  python3 subsetsRecursive.py
+  158  python3 subsetsRecursive.py
+  159  python3 subsetsRecursive.py
+  160  python3 subsetsRecursive.py
+  161  python3 subsetsRecursive.py
+  162  python3 subsetsRecursive.py
+  163  python3 subsetsRecursive.py
+  164  python3 subsetsRecursive.py
+  165  python3
+  166  python3 subsetsRecursive.py
+  167  python3 subsetsRecursive.py
+  168  python3 subsetsRecursive.py
+  169  python3 subsetsRecursive.py
+  170  python3 subsetsRecursive.py
+  171  python3
+  172  python3
+  173  python3 countPaths.py 
+  174  python3 countPaths.py 
+  175  python3 countPaths.py 
+  176  ssh gautvenk@sjc-ads-1403
+  177  ssh gautvenk@sjc-ads-1403
+  178  ssh gautvenk@sjc-ads-1403
+  179  ssh gautvenk@sjc-ads-1403
+  180  0;64;14M0;64;14m
+  181  ssh gautvenk@sjc-ads-1403
+  182  ssh gautvenk@sjc-ads-1403
+  183  ssh gautvenk@sjc-ads-1403
+  184  ssh gautvenk@sjc-ads-1403
+  185  ssh gautvenk@sjc-ads-1403
+  186  ssh gautvenk@sjc-ads-1403
+  187  ssh gautvenk@sjc-ads-1403
+  188  ssh gautvenk@sjc-ads-1403
+  189  ssh gautvenk@sjc-ads-1403
+  190  ssh gautvenk@sjc-ads-1403
+  191  ssh gautvenk@sjc-ads-1403
+  192  ssh gautvenk@sjc-ads-1403
+  193  ssh gautvenk@sjc-ads-1403
+  194  ssh gautvenk@sjc-ads-1403
+  195  ssh gautvenk@sjc-ads-1403
+  196  ssh gautvenk@sjc-ads-1403
+  197  ssh gautvenk@sjc-ads-1403
+  198  ssh gautvenk@sjc-ads-1403
+  199  ssh gautvenk@sjc-ads-1403
+  200  ssh gautvenk@sjc-ads-1403
+  201  ssh gautvenk@sjc-ads-1403
+  202  ssh gautvenk@sjc-ads-1403
+  203  ssh gautvenk@sjc-ads-1403
+  204  ssh gautvenk@sjc-ads-1403
+  205  ssh gautvenk@sjc-ads-1403
+  206  ssh gautvenk@sjc-ads-1403
+  207  ssh gautvenk@sjc-ads-1403
+  208  ssh admin@chadafta-bld2.insieme.local:7000
+  209  ssh admin@chadafta-bld2.insieme.local:7000
+  210  ssh chadafta-bld2.insieme.local
+  211  ssh chadafta-bld2.insieme.local
+  212  ssh gautvenk@sjc-ads-1403
+  213  ssh gautvenk@sjc-ads-1403
+  214  ssh gautvenk@sjc-ads-1403
+  215  ssh gautvenk@sjc-ads-1403
+  216  ssh gautvenk@sjc-ads-1403
+  217  ssh gautvenk@sjc-ads-1403
+  218  ssh gautvenk@sjc-ads-1403
+  219  ssh gautvenk@sjc-ads-1403
+  220  ssh gautvenk@sjc-ads-1403
+  221  ssh gautvenk@sjc-ads-1403
+  222  ssh gautvenk@sjc-ads-1403
+  223  ssh gautvenk@sjc-ads-1403
+  224  ssh gautvenk@sjc-ads-1403
+  225  ssh gautvenk@sjc-ads-1403
+  226  ssh gautvenk@sjc-ads-1403
+  227  ssh gautvenk@sjc-ads-1403
+  228  ssh gautvenk@sjc-ads-1403
+  229  ssh gautvenk@sjc-ads-1403
+  230  ssh gautvenk@sjc-ads-1403
+  231  ssh gautvenk@sjc-ads-1403
+  232  ssh gautvenk@sjc-ads-1403
+  233  ssh gautvenk@sjc-ads-1403
+  234  ssh gautvenk@sjc-ads-1403
+  235  ssh gautvenk@sjc-ads-1403
+  236  ssh gautvenk@sjc-ads-1403
+  237  ssh gautvenk@sjc-ads-1403
+  238  ssh gautvenk@sjc-ads-1403
+  239  ssh gautvenk@sjc-ads-1403
+  240  ssh gautvenk@sjc-ads-1403
+  241  ssh gautvenk@sjc-ads-1403
+  242  ssh gautvenk@sjc-ads-1403
+  243  ssh gautvenk@sjc-ads-1403
+  244  ssh gautvenk@sjc-ads-1403
+  245  ssh gautvenk@sjc-ads-1403
+  246  ssh gautvenk@sjc-ads-1403
+  247  ssh gautvenk@sjc-ads-1403
+  248  ssh gautvenk@sjc-ads-1403
+  249  ssh gautvenk@sjc-ads-1403
+  250  ssh gautvenk@sjc-ads-1403
+  251  ssh gautvenk@sjc-ads-1403
+  252  ssh gautvenk@sjc-ads-1403
+  253  ls
+  254  cd Downloads/
+  255  ls
+  256  cd ce2_defaultOneTime-2019-04-26T03-46-04/
+  257  ls
+  258  vim ce2_defaultOneTime-2019-04-26T03-46-04_1.json 
+  259  vim ce2_defaultOneTime-2019-04-26T03-46-04_1.json 
+  260  ssh gautvenk@sjc-ads-1403
+  261  ssh gautvenk@sjc-ads-1403
+  262  ssh gautvenk@sjc-ads-1403
+  263  ssh gautvenk@sjc-ads-1403
+  264  ssh gautvenk@sjc-ads-1403
+  265  ssh gautvenk@sjc-ads-1403
+  266  cd ~/Desktop/tetration/
+  267  ls
+  268  mkdir conversations
+  269  mv conversations-*.json conversations/
+  270  cd conversations/
+  271  ls
+  272  grep ip *
+  273  ls
+  274  vim conversations-MGMT.json 
+  275  pwd
+  276  cd ..
+  277  ls
+  278  cd LAC-common-policies-part-1
+  279  cd LAC-common-policies-part1
+  280  ls
+  281  grep ITSS *
+  282  cd ..
+  283  cd LAC-common-policies-part2
+  284  grep ITSS *
+  285  pwd
+  286  cd ..
+  287  ls
+  288  cd conversations/
+  289  ls
+  290  vim conversations-MGMT.json 
+  291  grep "172.18.12" *
+  292  grep "172.18.12.6" *
+  293  ls
+  294  vim conversations-MGMT.json 
+  295  vim conversations-shr-infra.json 
+  296  ssh gautvenk@sjc-ads-1403
+  297  ssh gautvenk@sjc-ads-1403
+  298  ssh gautvenk@sjc-ads-1403
+  299  ssh gautvenk@sjc-ads-1403
+  300  ssh gautvenk@sjc-ads-1403
+  301  ssh gautvenk@sjc-ads-1403
+  302  ssh gautvenk@sjc-ads-1403
+  303  ssh gautvenk@sjc-ads-1403
+  304  0;19;26M0;19;26m
+  305  ssh gautvenk@sjc-ads-1403
+  306  ssh gautvenk@sjc-ads-1403
+  307  ssh gautvenk@sjc-ads-1403
+  308  pwd
+  309  cd Desktop/tetration/
+  310  ls
+  311  cd conversations/
+  312  ls
+  313  ls -l
+  314  vim conversations-MGMT.json 
+  315  vim conversations-MGMT.json 
+  316  vim conversations-Security.json 
+  317  vim conversations-monitoring.json 
+  318  vim conversations-shr-infra.json 
+  319  vim conversations-shr-storage.json 
+  320  pwd
+  321  cd ..
+  322  ls
+  323  vim flow-multicase-Common.json 
+  324  cd ~/Downloads/
+  325  ls
+  326  ls -ltr
+  327  mv flow-multicase-Common.json ~/Desktop/tetration/.
+  328  mv flow-multicase-Common.json ~/Desktop/tetration/.
+  329  ssh gautvenk@sjc-ads-1403
+  330  ssh gautvenk@sjc-ads-1403
+  331  ssh gautvenk@sjc-ads-1403
+  332  ssh gautvenk@sjc-ads-1403
+  333  ssh gautvenk@sjc-ads-1403
+  334  ssh gautvenk@sjc-ads-1403
+  335  ssh gautvenk@sjc-ads-1403
+  336  ssh gautvenk@sjc-ads-1403
+  337  ssh gautvenk@sjc-ads-1403
+  338  ssh gautvenk@sjc-ads-1403
+  339  ssh gautvenk@sjc-ads-1403
+  340  ssh gautvenk@sjc-ads-1403
+  341  ssh gautvenk@sjc-ads-1403
+  342  ssh gautvenk@sjc-ads-1403
+  343  ssh gautvenk@sjc-ads-1403
+  344  ssh gautvenk@sjc-ads-1403
+  345  python
+  346  python
+  347  pwd
+  348  ssh gautvenk@sjc-ads-1403
+  349  python
+  350  ssh gautvenk@sjc-ads-1403
+  351  python
+  352  ssh gautvenk@sjc-ads-1403
+  353  ssh gautvenk@sjc-ads-1403
+  354  python
+  355  ssh gautvenk@sjc-ads-1403
+  356  ssh gautvenk@sjc-ads-1403
+  357  ssh gautvenk@sjc-ads-1403
+  358  ssh gautvenk@sjc-ads-1403
+  359  ssh gautvenk@sjc-ads-1403
+  360  ssh gautvenk@sjc-ads-1403
+  361  ssh gautvenk@sjc-ads-1403
+  362  ssh gautvenk@sjc-ads-1403
+  363  ssh gautvenk@sjc-ads-1403
+  364  ssh gautvenk@sjc-ads-1403
+  365  ssh gautvenk@sjc-ads-1403
+  366  ssh gautvenk@sjc-ads-1403
+  367  ssh gautvenk@sjc-ads-1403
+  368  ssh gautvenk@sjc-ads-1403
+  369  ssh gautvenk@sjc-ads-1403
+  370  ssh gautvenk@sjc-ads-1403
+  371  ssh gautvenk@sjc-ads-1403
+  372  ssh gautvenk@sjc-ads-1403
+  373  ssh gautvenk@sjc-ads-1403
+  374  ssh gautvenk@sjc-ads-1403
+  375  ssh gautvenk@sjc-ads-1403
+  376  ssh gautvenk@sjc-ads-1403
+  377  ssh gautvenk@sjc-ads-1403
+  378  ssh gautvenk@sjc-ads-1403
+  379  ssh gautvenk@sjc-ads-1403
+  380  ssh gautvenk@sjc-ads-1403
+  381  ssh gautvenk@sjc-ads-1403
+  382  ssh gautvenk@sjc-ads-1403
+  383  ssh gautvenk@sjc-ads-1403
+  384  seewejhjhjhjhbbhbn    hjaA5678767689765467890-=-09876WQ`1567890-=-0987657890-=-09876543]
+  385  ssh gautvenk@sjc-ads-1403
+  386  go version
+  387  go env
+  388  go help
+  389  ssh gautvenk@sjc-ads-1403
+  390  ssh gautvenk@sjc-ads-1403
+  391  ssh gautvenk@sjc-ads-1403
+  392  ssh gautvenk@sjc-ads-1403
+  393  ssh gautvenk@sjc-ads-1403
+  394  ssh gautvenk@sjc-ads-1403
+  395  ssh gautvenk@sjc-ads-1403
+  396  ssh gautvenk@sjc-ads-1403
+  397  ssh gautvenk@sjc-ads-1403
+  398  ssh gautvenk@sjc-ads-1403
+  399  ssh gautvenk@sjc-ads-1403
+  400  ssh gautvenk@sjc-ads-1403
+  401  ssh gautvenk@sjc-ads-1403
+  402  ssh gautvenk@sjc-ads-1403
+  403  ssh gautvenk@sjc-ads-1403
+  404  ssh gautvenk@sjc-ads-1403
+  405  ssh gautvenk@sjc-ads-1403
+  406  ssh gautvenk@sjc-ads-1403
+  407  ssh gautvenk@sjc-ads-1403
+  408  ssh gautvenk@sjc-ads-1403
+  409  ssh gautvenk@sjc-ads-1403
+  410  ssh gautvenk@sjc-ads-1403
+  411  ssh gautvenk@sjc-ads-1403
+  412  ssh gautvenk@sjc-ads-1403
+  413  ssh gautvenk@sjc-ads-1403
+  414  ifconfig
+  415  ifconfig
+  416  ping 127.0.0.1
+  417  ifconfig
+  418  ifconfig
+  419  ssh 192.168.56.1
+  420  ping 192.168.56.1
+  421  ping 192.168.56.101
+  422  ssh 192.168.56.101
+  423  ping 192.168.56.101
+  424  ifconfig
+  425  ssh gautvenk@192.168.56.101
+  426  ping 192.168.56.101
+  427  ssh gautvenk@192.168.56.101
+  428  vim ~/.ssh/known_hosts
+  429  ssh gautvenk@192.168.56.101
+  430  ssh gautvenk@192.168.56.101
+  431  ssh gautvenk@192.168.56.101
+  432  ssh gautvenk@192.168.56.102
+  433  ssh gautvenk@192.168.56.103
+  434  ssh gautvenk@192.168.56.103
+  435  cd Desktop/office/insieme/aci-features/noiro/
+  436  ls
+  437  scp gautvenk@171.70.59.95:/nobackup/gautvenk/Kub*.* .
+  438  exit
+  439  pwd
+  440  ls
+  441  ssh gautvenk@sjc-ads-1403
+  442  ssh gautvenk@192.168.56.103
+  443  cd docker-ws/
+  444  cd frontend/
+  445  ls
+  446  docker ps
+  447  docker exec -it a4dc562facc3 npm run test
+  448  docker exec -it a4dc562facc3 npm run test
+  449  vim docker-compose.yml
+  450  vim Dockerfile
+  451  docker build .
+  452  docker run -p 8080:80 ba70ecfa9092
+  453  history > cmds.txt
+   22  ssh gautvenk@sjc-ads-1403
+   23  ssh gautvenk@sjc-ads-1403
+   24  ssh gautvenk@sjc-ads-1403
+   25  ssh gautvenk@sjc-ads-1403
+   26  ssh gautvenk@sjc-ads-1403
+   27  ssh gautvenk@sjc-ads-1403
+   28  ssh gautvenk@sjc-ads-1403
+   29  ssh gautvenk@sjc-ads-1403
+   30  ssh gautvenk@sjc-ads-1403
+   31  ssh gautvenk@sjc-ads-1403
+   32  ssh gautvenk@sjc-ads-1403
+   33  ssh gautvenk@sjc-ads-1403
+   34  ssh gautvenk@sjc-ads-1403
+   35  ssh gautvenk@sjc-ads-1403
+   36  ssh gautvenk@sjc-ads-1403
+   37  ssh gautvenk@sjc-ads-1403
+   38  ssh gautvenk@sjc-ads-1403
+   39  ssh gautvenk@sjc-ads-1403
+   40  ssh gautvenk@sjc-ads-1403
+   41  ssh gautvenk@sjc-ads-1403
+   42  ssh gautvenk@sjc-ads-1403
+   43  ssh gautvenk@sjc-ads-1403
+   44  ssh gautvenk@sjc-ads-1403
+   45  ssh gautvenk@sjc-ads-1403
+   46  ssh gautvenk@sjc-ads-1403
+   47     [Dm,./
+   48   
+   49  ssh gautvenk@sjc-ads-1403
+   50  ssh gautvenk@sjc-ads-1403
+   51  ssh gautvenk@sjc-ads-1403
+   52  ssh gautvenk@sjc-ads-1403
+   53  ssh gautvenk@sjc-ads-1403
+   54  ssh gautvenk@sjc-ads-1403
+   55  ssh gautvenk@sjc-ads-1403
+   56  ssh gautvenk@sjc-ads-1403
+   57  ssh gautvenk@sjc-ads-1403
+   58  ssh gautvenk@sjc-ads-1403
+   59  ssh gautvenk@sjc-ads-1403
+   60  ssh gautvenk@sjc-ads-1403
+   61  ssh gautvenk@sjc-ads-1403
+   62  ssh gautvenk@sjc-ads-1403
+   63  ssh gautvenk@sjc-ads-1403
+   64  ssh gautvenk@sjc-ads-1403
+   65  ssh gautvenk@sjc-ads-1403
+   66  ssh gautvenk@sjc-ads-1403
+   67  ssh gautvenk@sjc-ads-1403
+   68  ssh gautvenk@sjc-ads-1403
+   69  ssh gautvenk@sjc-ads-1403
+   70  ssh gautvenk@sjc-ads-1403
+   71  ssh gautvenk@sjc-ads-1403
+   72  ssh gautvenk@sjc-ads-1403
+   73  ssh gautvenk@sjc-ads-1403
+   74  ssh gautvenk@sjc-ads-1403
+   75  python --version
+   76  ssh gautvenk@sjc-ads-1403
+   77  ssh gautvenk@sjc-ads-1403
+   78  ssh gautvenk@sjc-ads-1403
+   79  ssh gautvenk@sjc-ads-1403
+   80  ssh gautvenk@sjc-ads-1403
+   81  ssh gautvenk@sjc-ads-1403
+   82  ssh gautvenk@sjc-ads-1403
+   83  ssh gautvenk@sjc-ads-1403
+   84  ssh gautvenk@sjc-ads-1403
+   85  ssh gautvenk@sjc-ads-1403
+   86  ssh gautvenk@sjc-ads-1403
+   87  ssh gautvenk@sjc-ads-1403
+   88  ssh gautvenk@sjc-ads-1403
+   89  ws
+   90  cd ws
+   91  ls
+   92  vim permute.py
+   93  python permute.py 
+   94  vim permute.py
+   95  cd ws
+   96  python permute.py
+   97  python permute.py
+   98  python permute.py
+   99  python permute.py
+  100  python permute.py
+  101  python permute.py
+  102  ssh gautvenk@sjc-ads-1403
+  103  ssh gautvenk@sjc-ads-1403
+  104  ssh gautvenk@sjc-ads-1403
+  105  ssh gautvenk@sjc-ads-1403
+  106  cd ~/Desktop/Graduation/ml4t/shared/mc3_p3/
+  107  ls
+  108  vim QLearner.py
+  109  vim testqlearner.py
+  110  vim QLearner.py
+  111  pwd
+  112  ls
+  113  vim permuteRecursive.py
+  114  vim subsetsRecursive.py
+  115  vim countPaths.py
+  116  pwd
+  117  python
+  118  python3
+  119  pwd
+  120  l
+  121  ls
+  122  python3 subsetsRecursive.py
+  123  python3 subsetsRecursive.py
+  124  python3 subsetsRecursive.py
+  125  python3 subsetsRecursive.py
+  126  python3 subsetsRecursive.py
+  127  python3 subsetsRecursive.py
+  128  python3 subsetsRecursive.py
+  129  python3 subsetsRecursive.py
+  130  python3 subsetsRecursive.py
+  131  python3 subsetsRecursive.py
+  132  python3 subsetsRecursive.py
+  133  python3 subsetsRecursive.py
+  134  python3 subsetsRecursive.py
+  135  python3 subsetsRecursive.py
+  136  python3 subsetsRecursive.py
+  137  python3 subsetsRecursive.py
+  138  python3 subsetsRecursive.py
+  139  python3 subsetsRecursive.py
+  140  python3 subsetsRecursive.py
+  141  python3 subsetsRecursive.py
+  142  python3 subsetsRecursive.py
+  143  python3 subsetsRecursive.py
+  144  python3 subsetsRecursive.py
+  145  python3 subsetsRecursive.py
+  146  python3
+  147  python3 subsetsRecursive.py
+  148  python3 subsetsRecursive.py
+  149  python3 subsetsRecursive.py
+  150  python3 subsetsRecursive.py
+  151  python3 subsetsRecursive.py
+  152  python3 subsetsRecursive.py
+  153  python3 subsetsRecursive.py
+  154  python3 subsetsRecursive.py
+  155  python3 subsetsRecursive.py
+  156  python3 subsetsRecursive.py
+  157  python3 subsetsRecursive.py
+  158  python3 subsetsRecursive.py
+  159  python3 subsetsRecursive.py
+  160  python3 subsetsRecursive.py
+  161  python3 subsetsRecursive.py
+  162  python3 subsetsRecursive.py
+  163  python3 subsetsRecursive.py
+  164  python3 subsetsRecursive.py
+  165  python3
+  166  python3 subsetsRecursive.py
+  167  python3 subsetsRecursive.py
+  168  python3 subsetsRecursive.py
+  169  python3 subsetsRecursive.py
+  170  python3 subsetsRecursive.py
+  171  python3
+  172  python3
+  173  python3 countPaths.py 
+  174  python3 countPaths.py 
+  175  python3 countPaths.py 
+  176  ssh gautvenk@sjc-ads-1403
+  177  ssh gautvenk@sjc-ads-1403
+  178  ssh gautvenk@sjc-ads-1403
+  179  ssh gautvenk@sjc-ads-1403
+  180  0;64;14M0;64;14m
+  181  ssh gautvenk@sjc-ads-1403
+  182  ssh gautvenk@sjc-ads-1403
+  183  ssh gautvenk@sjc-ads-1403
+  184  ssh gautvenk@sjc-ads-1403
+  185  ssh gautvenk@sjc-ads-1403
+  186  ssh gautvenk@sjc-ads-1403
+  187  ssh gautvenk@sjc-ads-1403
+  188  ssh gautvenk@sjc-ads-1403
+  189  ssh gautvenk@sjc-ads-1403
+  190  ssh gautvenk@sjc-ads-1403
+  191  ssh gautvenk@sjc-ads-1403
+  192  ssh gautvenk@sjc-ads-1403
+  193  ssh gautvenk@sjc-ads-1403
+  194  ssh gautvenk@sjc-ads-1403
+  195  ssh gautvenk@sjc-ads-1403
+  196  ssh gautvenk@sjc-ads-1403
+  197  ssh gautvenk@sjc-ads-1403
+  198  ssh gautvenk@sjc-ads-1403
+  199  ssh gautvenk@sjc-ads-1403
+  200  ssh gautvenk@sjc-ads-1403
+  201  ssh gautvenk@sjc-ads-1403
+  202  ssh gautvenk@sjc-ads-1403
+  203  ssh gautvenk@sjc-ads-1403
+  204  ssh gautvenk@sjc-ads-1403
+  205  ssh gautvenk@sjc-ads-1403
+  206  ssh gautvenk@sjc-ads-1403
+  207  ssh gautvenk@sjc-ads-1403
+  208  ssh admin@chadafta-bld2.insieme.local:7000
+  209  ssh admin@chadafta-bld2.insieme.local:7000
+  210  ssh chadafta-bld2.insieme.local
+  211  ssh chadafta-bld2.insieme.local
+  212  ssh gautvenk@sjc-ads-1403
+  213  ssh gautvenk@sjc-ads-1403
+  214  ssh gautvenk@sjc-ads-1403
+  215  ssh gautvenk@sjc-ads-1403
+  216  ssh gautvenk@sjc-ads-1403
+  217  ssh gautvenk@sjc-ads-1403
+  218  ssh gautvenk@sjc-ads-1403
+  219  ssh gautvenk@sjc-ads-1403
+  220  ssh gautvenk@sjc-ads-1403
+  221  ssh gautvenk@sjc-ads-1403
+  222  ssh gautvenk@sjc-ads-1403
+  223  ssh gautvenk@sjc-ads-1403
+  224  ssh gautvenk@sjc-ads-1403
+  225  ssh gautvenk@sjc-ads-1403
+  226  ssh gautvenk@sjc-ads-1403
+  227  ssh gautvenk@sjc-ads-1403
+  228  ssh gautvenk@sjc-ads-1403
+  229  ssh gautvenk@sjc-ads-1403
+  230  ssh gautvenk@sjc-ads-1403
+  231  ssh gautvenk@sjc-ads-1403
+  232  ssh gautvenk@sjc-ads-1403
+  233  ssh gautvenk@sjc-ads-1403
+  234  ssh gautvenk@sjc-ads-1403
+  235  ssh gautvenk@sjc-ads-1403
+  236  ssh gautvenk@sjc-ads-1403
+  237  ssh gautvenk@sjc-ads-1403
+  238  ssh gautvenk@sjc-ads-1403
+  239  ssh gautvenk@sjc-ads-1403
+  240  ssh gautvenk@sjc-ads-1403
+  241  ssh gautvenk@sjc-ads-1403
+  242  ssh gautvenk@sjc-ads-1403
+  243  ssh gautvenk@sjc-ads-1403
+  244  ssh gautvenk@sjc-ads-1403
+  245  ssh gautvenk@sjc-ads-1403
+  246  ssh gautvenk@sjc-ads-1403
+  247  ssh gautvenk@sjc-ads-1403
+  248  ssh gautvenk@sjc-ads-1403
+  249  ssh gautvenk@sjc-ads-1403
+  250  ssh gautvenk@sjc-ads-1403
+  251  ssh gautvenk@sjc-ads-1403
+  252  ssh gautvenk@sjc-ads-1403
+  253  ls
+  254  cd Downloads/
+  255  ls
+  256  cd ce2_defaultOneTime-2019-04-26T03-46-04/
+  257  ls
+  258  vim ce2_defaultOneTime-2019-04-26T03-46-04_1.json 
+  259  vim ce2_defaultOneTime-2019-04-26T03-46-04_1.json 
+  260  ssh gautvenk@sjc-ads-1403
+  261  ssh gautvenk@sjc-ads-1403
+  262  ssh gautvenk@sjc-ads-1403
+  263  ssh gautvenk@sjc-ads-1403
+  264  ssh gautvenk@sjc-ads-1403
+  265  ssh gautvenk@sjc-ads-1403
+  266  cd ~/Desktop/tetration/
+  267  ls
+  268  mkdir conversations
+  269  mv conversations-*.json conversations/
+  270  cd conversations/
+  271  ls
+  272  grep ip *
+  273  ls
+  274  vim conversations-MGMT.json 
+  275  pwd
+  276  cd ..
+  277  ls
+  278  cd LAC-common-policies-part-1
+  279  cd LAC-common-policies-part1
+  280  ls
+  281  grep ITSS *
+  282  cd ..
+  283  cd LAC-common-policies-part2
+  284  grep ITSS *
+  285  pwd
+  286  cd ..
+  287  ls
+  288  cd conversations/
+  289  ls
+  290  vim conversations-MGMT.json 
+  291  grep "172.18.12" *
+  292  grep "172.18.12.6" *
+  293  ls
+  294  vim conversations-MGMT.json 
+  295  vim conversations-shr-infra.json 
+  296  ssh gautvenk@sjc-ads-1403
+  297  ssh gautvenk@sjc-ads-1403
+  298  ssh gautvenk@sjc-ads-1403
+  299  ssh gautvenk@sjc-ads-1403
+  300  ssh gautvenk@sjc-ads-1403
+  301  ssh gautvenk@sjc-ads-1403
+  302  ssh gautvenk@sjc-ads-1403
+  303  ssh gautvenk@sjc-ads-1403
+  304  0;19;26M0;19;26m
+  305  ssh gautvenk@sjc-ads-1403
+  306  ssh gautvenk@sjc-ads-1403
+  307  ssh gautvenk@sjc-ads-1403
+  308  pwd
+  309  cd Desktop/tetration/
+  310  ls
+  311  cd conversations/
+  312  ls
+  313  ls -l
+  314  vim conversations-MGMT.json 
+  315  vim conversations-MGMT.json 
+  316  vim conversations-Security.json 
+  317  vim conversations-monitoring.json 
+  318  vim conversations-shr-infra.json 
+  319  vim conversations-shr-storage.json 
+  320  pwd
+  321  cd ..
+  322  ls
+  323  vim flow-multicase-Common.json 
+  324  cd ~/Downloads/
+  325  ls
+  326  ls -ltr
+  327  mv flow-multicase-Common.json ~/Desktop/tetration/.
+  328  mv flow-multicase-Common.json ~/Desktop/tetration/.
+  329  ssh gautvenk@sjc-ads-1403
+  330  ssh gautvenk@sjc-ads-1403
+  331  ssh gautvenk@sjc-ads-1403
+  332  ssh gautvenk@sjc-ads-1403
+  333  ssh gautvenk@sjc-ads-1403
+  334  ssh gautvenk@sjc-ads-1403
+  335  ssh gautvenk@sjc-ads-1403
+  336  ssh gautvenk@sjc-ads-1403
+  337  ssh gautvenk@sjc-ads-1403
+  338  ssh gautvenk@sjc-ads-1403
+  339  ssh gautvenk@sjc-ads-1403
+  340  ssh gautvenk@sjc-ads-1403
+  341  ssh gautvenk@sjc-ads-1403
+  342  ssh gautvenk@sjc-ads-1403
+  343  ssh gautvenk@sjc-ads-1403
+  344  ssh gautvenk@sjc-ads-1403
+  345  python
+  346  python
+  347  pwd
+  348  ssh gautvenk@sjc-ads-1403
+  349  python
+  350  ssh gautvenk@sjc-ads-1403
+  351  python
+  352  ssh gautvenk@sjc-ads-1403
+  353  ssh gautvenk@sjc-ads-1403
+  354  python
+  355  ssh gautvenk@sjc-ads-1403
+  356  ssh gautvenk@sjc-ads-1403
+  357  ssh gautvenk@sjc-ads-1403
+  358  ssh gautvenk@sjc-ads-1403
+  359  ssh gautvenk@sjc-ads-1403
+  360  ssh gautvenk@sjc-ads-1403
+  361  ssh gautvenk@sjc-ads-1403
+  362  ssh gautvenk@sjc-ads-1403
+  363  ssh gautvenk@sjc-ads-1403
+  364  ssh gautvenk@sjc-ads-1403
+  365  ssh gautvenk@sjc-ads-1403
+  366  ssh gautvenk@sjc-ads-1403
+  367  ssh gautvenk@sjc-ads-1403
+  368  ssh gautvenk@sjc-ads-1403
+  369  ssh gautvenk@sjc-ads-1403
+  370  ssh gautvenk@sjc-ads-1403
+  371  ssh gautvenk@sjc-ads-1403
+  372  ssh gautvenk@sjc-ads-1403
+  373  ssh gautvenk@sjc-ads-1403
+  374  ssh gautvenk@sjc-ads-1403
+  375  ssh gautvenk@sjc-ads-1403
+  376  ssh gautvenk@sjc-ads-1403
+  377  ssh gautvenk@sjc-ads-1403
+  378  ssh gautvenk@sjc-ads-1403
+  379  ssh gautvenk@sjc-ads-1403
+  380  ssh gautvenk@sjc-ads-1403
+  381  ssh gautvenk@sjc-ads-1403
+  382  ssh gautvenk@sjc-ads-1403
+  383  ssh gautvenk@sjc-ads-1403
+  384  seewejhjhjhjhbbhbn    hjaA5678767689765467890-=-09876WQ`1567890-=-0987657890-=-09876543]
+  385  ssh gautvenk@sjc-ads-1403
+  386  go version
+  387  go env
+  388  go help
+  389  ssh gautvenk@sjc-ads-1403
+  390  ssh gautvenk@sjc-ads-1403
+  391  ssh gautvenk@sjc-ads-1403
+  392  ssh gautvenk@sjc-ads-1403
+  393  ssh gautvenk@sjc-ads-1403
+  394  ssh gautvenk@sjc-ads-1403
+  395  ssh gautvenk@sjc-ads-1403
+  396  ssh gautvenk@sjc-ads-1403
+  397  ssh gautvenk@sjc-ads-1403
+  398  ssh gautvenk@sjc-ads-1403
+  399  ssh gautvenk@sjc-ads-1403
+  400  ssh gautvenk@sjc-ads-1403
+  401  ssh gautvenk@sjc-ads-1403
+  402  ssh gautvenk@sjc-ads-1403
+  403  ssh gautvenk@sjc-ads-1403
+  404  ssh gautvenk@sjc-ads-1403
+  405  ssh gautvenk@sjc-ads-1403
+  406  ssh gautvenk@sjc-ads-1403
+  407  ssh gautvenk@sjc-ads-1403
+  408  ssh gautvenk@sjc-ads-1403
+  409  ssh gautvenk@sjc-ads-1403
+  410  ssh gautvenk@sjc-ads-1403
+  411  ssh gautvenk@sjc-ads-1403
+  412  ssh gautvenk@sjc-ads-1403
+  413  ssh gautvenk@sjc-ads-1403
+  414  ifconfig
+  415  ifconfig
+  416  ping 127.0.0.1
+  417  ifconfig
+  418  ifconfig
+  419  ssh 192.168.56.1
+  420  ping 192.168.56.1
+  421  ping 192.168.56.101
+  422  ssh 192.168.56.101
+  423  ping 192.168.56.101
+  424  ifconfig
+  425  ssh gautvenk@192.168.56.101
+  426  ping 192.168.56.101
+  427  ssh gautvenk@192.168.56.101
+  428  vim ~/.ssh/known_hosts
+  429  ssh gautvenk@192.168.56.101
+  430  ssh gautvenk@192.168.56.101
+  431  ssh gautvenk@192.168.56.101
+  432  ssh gautvenk@192.168.56.102
+  433  ssh gautvenk@192.168.56.103
+  434  ssh gautvenk@192.168.56.103
+  435  cd Desktop/office/insieme/aci-features/noiro/
+  436  ls
+  437  scp gautvenk@171.70.59.95:/nobackup/gautvenk/Kub*.* .
+  438  exit
+  439  pwd
+  440  ls
+  441  ssh gautvenk@sjc-ads-1403
+  442  ssh gautvenk@192.168.56.103
+  443  docker ps
+  444  docker exec -it 4ef0065fcc82 sh
+  445  cd ws
+  446  ls
+  447  cd ..
+  448  cd docker-ws/
+  449  ls
+  450  vim Dockerfile
+  451  cd ..
+  452  ls
+  453  cd docker-ws/
+  454  ls
+  455  mkdir simpleweb
+  456  mv Dockerfile simpleweb/
+  457  mv index.js simpleweb/
+  458  mv package.json simpleweb/
+  459  ls
+  460  rm Dockerfile~ 
+  461  mkdir visits
+  462  cd visits/
+  463  ls
+  464  ls
+  465  cp ../simpleweb/Dockerfile .
+  466  vim Dockerfile 
+  467  docker build .
+  468  docker build -t gautvenk/visits:latest .
+  469  pwd
+  470  vim docker-compose.yml
+  471  docker-compose up
+  472  ls
+  473  vim index.js 
+  474  docker-compose up
+  475  docker-compose up
+  476  ls
+  477  vim docker-compose.yml
+  478  ls
+  479  vim index.js
+  480  docker-compose up -build
+  481  docker-compose up --build
+  482  vim docker-compose.yml
+  483  docker-compose up --build
+  484  node -v
+  485  node -v
+  486  npx create-react-app client
+  487  pwd
+  488  ls
+  489  cd ..
+  490  pwd
+  491  ls
+  492  create-react-app frontend
+  493  pwd
+  494  mv visits/client frontend
+  495  cd frontend/
+  496  ls
+  497  vim README.md 
+  498  vim commands.txt
+  499  ls
+  500  npm run test
+  501  npm run build
+  502  npm run start
+  503  vim Dockerfile.dev
+  504  docker build -f Dockerfile.dev .
+  505  ls
+  506  rm -rf node_modules/
+  507  docker build -f Dockerfile.dev .
+  508  docker run e508a0b97555
+  509  docker run -p 3000:3000 e508a0b97555
+  510  vim src/App.js 
+  511  pwd
+  512  docker run -p 3000:3000 -v $(pwd):/app e508a0b97555
+  513  docker run -p 3000:3000 -v /app/node_modules -v $(pwd):/app e508a0b97555
+  514  vim docker-compose.yml
+  515  vim docker-compose.yml
+  516  docker-compose up
+  517  docker build -f Dockerfile.dev .
+  518  docker run 018a3055b51a npm run test
+  519  docker run -it 018a3055b51a npm run test
+  520  docker-compose up
+  521  history >> cmds.txt 
+    1  ssh gautvenk@sjc-ads-1403
+    2  ssh gautvenk@sjc-ads-1403
+    3  Skanda2018!
+    4  ssh gautvenk@sjc-ads-1403
+    5  ssh gautvenk@sjc-ads-1403
+    6  ssh gautvenk@sjc-ads-1403
+    7  ssh gautvenk@sjc-ads-1403
+    8  ssh gautvenk@sjc-ads-1403
+    9  ssh gautvenk@sjc-ads-1403
+   10  ssh gautvenk@sjc-ads-1403
+   11  ssh gautvenk@sjc-ads-1403
+   12  ssh gautvenk@sjc-ads-1403
+   13  ssh gautvenk@sjc-ads-1403
+   14  ssh gautvenk@sjc-ads-1403
+   15  ssh gautvenk@sjc-ads-1403
+   16  ssh gautvenk@sjc-ads-1403
+   17  vim add
+   18  ssh gautvenk@sjc-ads-1403
+   19  ssh gautvenk@sjc-ads-1403
+   20  ssh gautvenk@sjc-ads-1403
+   21  ssh gautvenk@sjc-ads-1403
+   22  ssh gautvenk@sjc-ads-1403
+   23  ssh gautvenk@sjc-ads-1403
+   24  ssh gautvenk@sjc-ads-1403
+   25  ssh gautvenk@sjc-ads-1403
+   26  ssh gautvenk@sjc-ads-1403
+   27  ssh gautvenk@sjc-ads-1403
+   28  ssh gautvenk@sjc-ads-1403
+   29  ssh gautvenk@sjc-ads-1403
+   30  ssh gautvenk@sjc-ads-1403
+   31  ssh gautvenk@sjc-ads-1403
+   32  ssh gautvenk@sjc-ads-1403
+   33  ssh gautvenk@sjc-ads-1403
+   34  ssh gautvenk@sjc-ads-1403
+   35  ssh gautvenk@sjc-ads-1403
+   36  ssh gautvenk@sjc-ads-1403
+   37  ssh gautvenk@sjc-ads-1403
+   38  ssh gautvenk@sjc-ads-1403
+   39  ssh gautvenk@sjc-ads-1403
+   40  ssh gautvenk@sjc-ads-1403
+   41  ssh gautvenk@sjc-ads-1403
+   42  ssh gautvenk@sjc-ads-1403
+   43  ssh gautvenk@sjc-ads-1403
+   44  ssh gautvenk@sjc-ads-1403
+   45  ssh gautvenk@sjc-ads-1403
+   46  ssh gautvenk@sjc-ads-1403
+   47     [Dm,./
+   48   
+   49  ssh gautvenk@sjc-ads-1403
+   50  ssh gautvenk@sjc-ads-1403
+   51  ssh gautvenk@sjc-ads-1403
+   52  ssh gautvenk@sjc-ads-1403
+   53  ssh gautvenk@sjc-ads-1403
+   54  ssh gautvenk@sjc-ads-1403
+   55  ssh gautvenk@sjc-ads-1403
+   56  ssh gautvenk@sjc-ads-1403
+   57  ssh gautvenk@sjc-ads-1403
+   58  ssh gautvenk@sjc-ads-1403
+   59  ssh gautvenk@sjc-ads-1403
+   60  ssh gautvenk@sjc-ads-1403
+   61  ssh gautvenk@sjc-ads-1403
+   62  ssh gautvenk@sjc-ads-1403
+   63  ssh gautvenk@sjc-ads-1403
+   64  ssh gautvenk@sjc-ads-1403
+   65  ssh gautvenk@sjc-ads-1403
+   66  ssh gautvenk@sjc-ads-1403
+   67  ssh gautvenk@sjc-ads-1403
+   68  ssh gautvenk@sjc-ads-1403
+   69  ssh gautvenk@sjc-ads-1403
+   70  ssh gautvenk@sjc-ads-1403
+   71  ssh gautvenk@sjc-ads-1403
+   72  ssh gautvenk@sjc-ads-1403
+   73  ssh gautvenk@sjc-ads-1403
+   74  ssh gautvenk@sjc-ads-1403
+   75  python --version
+   76  ssh gautvenk@sjc-ads-1403
+   77  ssh gautvenk@sjc-ads-1403
+   78  ssh gautvenk@sjc-ads-1403
+   79  ssh gautvenk@sjc-ads-1403
+   80  ssh gautvenk@sjc-ads-1403
+   81  ssh gautvenk@sjc-ads-1403
+   82  ssh gautvenk@sjc-ads-1403
+   83  ssh gautvenk@sjc-ads-1403
+   84  ssh gautvenk@sjc-ads-1403
+   85  ssh gautvenk@sjc-ads-1403
+   86  ssh gautvenk@sjc-ads-1403
+   87  ssh gautvenk@sjc-ads-1403
+   88  ssh gautvenk@sjc-ads-1403
+   89  ws
+   90  cd ws
+   91  ls
+   92  vim permute.py
+   93  python permute.py 
+   94  vim permute.py
+   95  cd ws
+   96  python permute.py
+   97  python permute.py
+   98  python permute.py
+   99  python permute.py
+  100  python permute.py
+  101  python permute.py
+  102  ssh gautvenk@sjc-ads-1403
+  103  ssh gautvenk@sjc-ads-1403
+  104  ssh gautvenk@sjc-ads-1403
+  105  ssh gautvenk@sjc-ads-1403
+  106  cd ~/Desktop/Graduation/ml4t/shared/mc3_p3/
+  107  ls
+  108  vim QLearner.py
+  109  vim testqlearner.py
+  110  vim QLearner.py
+  111  pwd
+  112  ls
+  113  vim permuteRecursive.py
+  114  vim subsetsRecursive.py
+  115  vim countPaths.py
+  116  pwd
+  117  python
+  118  python3
+  119  pwd
+  120  l
+  121  ls
+  122  python3 subsetsRecursive.py
+  123  python3 subsetsRecursive.py
+  124  python3 subsetsRecursive.py
+  125  python3 subsetsRecursive.py
+  126  python3 subsetsRecursive.py
+  127  python3 subsetsRecursive.py
+  128  python3 subsetsRecursive.py
+  129  python3 subsetsRecursive.py
+  130  python3 subsetsRecursive.py
+  131  python3 subsetsRecursive.py
+  132  python3 subsetsRecursive.py
+  133  python3 subsetsRecursive.py
+  134  python3 subsetsRecursive.py
+  135  python3 subsetsRecursive.py
+  136  python3 subsetsRecursive.py
+  137  python3 subsetsRecursive.py
+  138  python3 subsetsRecursive.py
+  139  python3 subsetsRecursive.py
+  140  python3 subsetsRecursive.py
+  141  python3 subsetsRecursive.py
+  142  python3 subsetsRecursive.py
+  143  python3 subsetsRecursive.py
+  144  python3 subsetsRecursive.py
+  145  python3 subsetsRecursive.py
+  146  python3
+  147  python3 subsetsRecursive.py
+  148  python3 subsetsRecursive.py
+  149  python3 subsetsRecursive.py
+  150  python3 subsetsRecursive.py
+  151  python3 subsetsRecursive.py
+  152  python3 subsetsRecursive.py
+  153  python3 subsetsRecursive.py
+  154  python3 subsetsRecursive.py
+  155  python3 subsetsRecursive.py
+  156  python3 subsetsRecursive.py
+  157  python3 subsetsRecursive.py
+  158  python3 subsetsRecursive.py
+  159  python3 subsetsRecursive.py
+  160  python3 subsetsRecursive.py
+  161  python3 subsetsRecursive.py
+  162  python3 subsetsRecursive.py
+  163  python3 subsetsRecursive.py
+  164  python3 subsetsRecursive.py
+  165  python3
+  166  python3 subsetsRecursive.py
+  167  python3 subsetsRecursive.py
+  168  python3 subsetsRecursive.py
+  169  python3 subsetsRecursive.py
+  170  python3 subsetsRecursive.py
+  171  python3
+  172  python3
+  173  python3 countPaths.py 
+  174  python3 countPaths.py 
+  175  python3 countPaths.py 
+  176  ssh gautvenk@sjc-ads-1403
+  177  ssh gautvenk@sjc-ads-1403
+  178  ssh gautvenk@sjc-ads-1403
+  179  ssh gautvenk@sjc-ads-1403
+  180  0;64;14M0;64;14m
+  181  ssh gautvenk@sjc-ads-1403
+  182  ssh gautvenk@sjc-ads-1403
+  183  ssh gautvenk@sjc-ads-1403
+  184  ssh gautvenk@sjc-ads-1403
+  185  ssh gautvenk@sjc-ads-1403
+  186  ssh gautvenk@sjc-ads-1403
+  187  ssh gautvenk@sjc-ads-1403
+  188  ssh gautvenk@sjc-ads-1403
+  189  ssh gautvenk@sjc-ads-1403
+  190  ssh gautvenk@sjc-ads-1403
+  191  ssh gautvenk@sjc-ads-1403
+  192  ssh gautvenk@sjc-ads-1403
+  193  ssh gautvenk@sjc-ads-1403
+  194  ssh gautvenk@sjc-ads-1403
+  195  ssh gautvenk@sjc-ads-1403
+  196  ssh gautvenk@sjc-ads-1403
+  197  ssh gautvenk@sjc-ads-1403
+  198  ssh gautvenk@sjc-ads-1403
+  199  ssh gautvenk@sjc-ads-1403
+  200  ssh gautvenk@sjc-ads-1403
+  201  ssh gautvenk@sjc-ads-1403
+  202  ssh gautvenk@sjc-ads-1403
+  203  ssh gautvenk@sjc-ads-1403
+  204  ssh gautvenk@sjc-ads-1403
+  205  ssh gautvenk@sjc-ads-1403
+  206  ssh gautvenk@sjc-ads-1403
+  207  ssh gautvenk@sjc-ads-1403
+  208  ssh admin@chadafta-bld2.insieme.local:7000
+  209  ssh admin@chadafta-bld2.insieme.local:7000
+  210  ssh chadafta-bld2.insieme.local
+  211  ssh chadafta-bld2.insieme.local
+  212  ssh gautvenk@sjc-ads-1403
+  213  ssh gautvenk@sjc-ads-1403
+  214  ssh gautvenk@sjc-ads-1403
+  215  ssh gautvenk@sjc-ads-1403
+  216  ssh gautvenk@sjc-ads-1403
+  217  ssh gautvenk@sjc-ads-1403
+  218  ssh gautvenk@sjc-ads-1403
+  219  ssh gautvenk@sjc-ads-1403
+  220  ssh gautvenk@sjc-ads-1403
+  221  ssh gautvenk@sjc-ads-1403
+  222  ssh gautvenk@sjc-ads-1403
+  223  ssh gautvenk@sjc-ads-1403
+  224  ssh gautvenk@sjc-ads-1403
+  225  ssh gautvenk@sjc-ads-1403
+  226  ssh gautvenk@sjc-ads-1403
+  227  ssh gautvenk@sjc-ads-1403
+  228  ssh gautvenk@sjc-ads-1403
+  229  ssh gautvenk@sjc-ads-1403
+  230  ssh gautvenk@sjc-ads-1403
+  231  ssh gautvenk@sjc-ads-1403
+  232  ssh gautvenk@sjc-ads-1403
+  233  ssh gautvenk@sjc-ads-1403
+  234  ssh gautvenk@sjc-ads-1403
+  235  ssh gautvenk@sjc-ads-1403
+  236  ssh gautvenk@sjc-ads-1403
+  237  ssh gautvenk@sjc-ads-1403
+  238  ssh gautvenk@sjc-ads-1403
+  239  ssh gautvenk@sjc-ads-1403
+  240  ssh gautvenk@sjc-ads-1403
+  241  ssh gautvenk@sjc-ads-1403
+  242  ssh gautvenk@sjc-ads-1403
+  243  ssh gautvenk@sjc-ads-1403
+  244  ssh gautvenk@sjc-ads-1403
+  245  ssh gautvenk@sjc-ads-1403
+  246  ssh gautvenk@sjc-ads-1403
+  247  ssh gautvenk@sjc-ads-1403
+  248  ssh gautvenk@sjc-ads-1403
+  249  ssh gautvenk@sjc-ads-1403
+  250  ssh gautvenk@sjc-ads-1403
+  251  ssh gautvenk@sjc-ads-1403
+  252  ssh gautvenk@sjc-ads-1403
+  253  ls
+  254  cd Downloads/
+  255  ls
+  256  cd ce2_defaultOneTime-2019-04-26T03-46-04/
+  257  ls
+  258  vim ce2_defaultOneTime-2019-04-26T03-46-04_1.json 
+  259  vim ce2_defaultOneTime-2019-04-26T03-46-04_1.json 
+  260  ssh gautvenk@sjc-ads-1403
+  261  ssh gautvenk@sjc-ads-1403
+  262  ssh gautvenk@sjc-ads-1403
+  263  ssh gautvenk@sjc-ads-1403
+  264  ssh gautvenk@sjc-ads-1403
+  265  ssh gautvenk@sjc-ads-1403
+  266  cd ~/Desktop/tetration/
+  267  ls
+  268  mkdir conversations
+  269  mv conversations-*.json conversations/
+  270  cd conversations/
+  271  ls
+  272  grep ip *
+  273  ls
+  274  vim conversations-MGMT.json 
+  275  pwd
+  276  cd ..
+  277  ls
+  278  cd LAC-common-policies-part-1
+  279  cd LAC-common-policies-part1
+  280  ls
+  281  grep ITSS *
+  282  cd ..
+  283  cd LAC-common-policies-part2
+  284  grep ITSS *
+  285  pwd
+  286  cd ..
+  287  ls
+  288  cd conversations/
+  289  ls
+  290  vim conversations-MGMT.json 
+  291  grep "172.18.12" *
+  292  grep "172.18.12.6" *
+  293  ls
+  294  vim conversations-MGMT.json 
+  295  vim conversations-shr-infra.json 
+  296  ssh gautvenk@sjc-ads-1403
+  297  ssh gautvenk@sjc-ads-1403
+  298  ssh gautvenk@sjc-ads-1403
+  299  ssh gautvenk@sjc-ads-1403
+  300  ssh gautvenk@sjc-ads-1403
+  301  ssh gautvenk@sjc-ads-1403
+  302  ssh gautvenk@sjc-ads-1403
+  303  ssh gautvenk@sjc-ads-1403
+  304  0;19;26M0;19;26m
+  305  ssh gautvenk@sjc-ads-1403
+  306  ssh gautvenk@sjc-ads-1403
+  307  ssh gautvenk@sjc-ads-1403
+  308  pwd
+  309  cd Desktop/tetration/
+  310  ls
+  311  cd conversations/
+  312  ls
+  313  ls -l
+  314  vim conversations-MGMT.json 
+  315  vim conversations-MGMT.json 
+  316  vim conversations-Security.json 
+  317  vim conversations-monitoring.json 
+  318  vim conversations-shr-infra.json 
+  319  vim conversations-shr-storage.json 
+  320  pwd
+  321  cd ..
+  322  ls
+  323  vim flow-multicase-Common.json 
+  324  cd ~/Downloads/
+  325  ls
+  326  ls -ltr
+  327  mv flow-multicase-Common.json ~/Desktop/tetration/.
+  328  mv flow-multicase-Common.json ~/Desktop/tetration/.
+  329  ssh gautvenk@sjc-ads-1403
+  330  ssh gautvenk@sjc-ads-1403
+  331  ssh gautvenk@sjc-ads-1403
+  332  ssh gautvenk@sjc-ads-1403
+  333  ssh gautvenk@sjc-ads-1403
+  334  ssh gautvenk@sjc-ads-1403
+  335  ssh gautvenk@sjc-ads-1403
+  336  ssh gautvenk@sjc-ads-1403
+  337  ssh gautvenk@sjc-ads-1403
+  338  ssh gautvenk@sjc-ads-1403
+  339  ssh gautvenk@sjc-ads-1403
+  340  ssh gautvenk@sjc-ads-1403
+  341  ssh gautvenk@sjc-ads-1403
+  342  ssh gautvenk@sjc-ads-1403
+  343  ssh gautvenk@sjc-ads-1403
+  344  ssh gautvenk@sjc-ads-1403
+  345  python
+  346  python
+  347  pwd
+  348  ssh gautvenk@sjc-ads-1403
+  349  python
+  350  ssh gautvenk@sjc-ads-1403
+  351  python
+  352  ssh gautvenk@sjc-ads-1403
+  353  ssh gautvenk@sjc-ads-1403
+  354  python
+  355  ssh gautvenk@sjc-ads-1403
+  356  ssh gautvenk@sjc-ads-1403
+  357  ssh gautvenk@sjc-ads-1403
+  358  ssh gautvenk@sjc-ads-1403
+  359  ssh gautvenk@sjc-ads-1403
+  360  ssh gautvenk@sjc-ads-1403
+  361  ssh gautvenk@sjc-ads-1403
+  362  ssh gautvenk@sjc-ads-1403
+  363  ssh gautvenk@sjc-ads-1403
+  364  ssh gautvenk@sjc-ads-1403
+  365  ssh gautvenk@sjc-ads-1403
+  366  ssh gautvenk@sjc-ads-1403
+  367  ssh gautvenk@sjc-ads-1403
+  368  ssh gautvenk@sjc-ads-1403
+  369  ssh gautvenk@sjc-ads-1403
+  370  ssh gautvenk@sjc-ads-1403
+  371  ssh gautvenk@sjc-ads-1403
+  372  ssh gautvenk@sjc-ads-1403
+  373  ssh gautvenk@sjc-ads-1403
+  374  ssh gautvenk@sjc-ads-1403
+  375  ssh gautvenk@sjc-ads-1403
+  376  ssh gautvenk@sjc-ads-1403
+  377  ssh gautvenk@sjc-ads-1403
+  378  ssh gautvenk@sjc-ads-1403
+  379  ssh gautvenk@sjc-ads-1403
+  380  ssh gautvenk@sjc-ads-1403
+  381  ssh gautvenk@sjc-ads-1403
+  382  ssh gautvenk@sjc-ads-1403
+  383  ssh gautvenk@sjc-ads-1403
+  384  seewejhjhjhjhbbhbn    hjaA5678767689765467890-=-09876WQ`1567890-=-0987657890-=-09876543]
+  385  ssh gautvenk@sjc-ads-1403
+  386  go version
+  387  go env
+  388  go help
+  389  ssh gautvenk@sjc-ads-1403
+  390  ssh gautvenk@sjc-ads-1403
+  391  ssh gautvenk@sjc-ads-1403
+  392  ssh gautvenk@sjc-ads-1403
+  393  ssh gautvenk@sjc-ads-1403
+  394  ssh gautvenk@sjc-ads-1403
+  395  ssh gautvenk@sjc-ads-1403
+  396  ssh gautvenk@sjc-ads-1403
+  397  ssh gautvenk@sjc-ads-1403
+  398  ssh gautvenk@sjc-ads-1403
+  399  ssh gautvenk@sjc-ads-1403
+  400  ssh gautvenk@sjc-ads-1403
+  401  ssh gautvenk@sjc-ads-1403
+  402  ssh gautvenk@sjc-ads-1403
+  403  ssh gautvenk@sjc-ads-1403
+  404  ssh gautvenk@sjc-ads-1403
+  405  ssh gautvenk@sjc-ads-1403
+  406  ssh gautvenk@sjc-ads-1403
+  407  ssh gautvenk@sjc-ads-1403
+  408  ssh gautvenk@sjc-ads-1403
+  409  ssh gautvenk@sjc-ads-1403
+  410  ssh gautvenk@sjc-ads-1403
+  411  ssh gautvenk@sjc-ads-1403
+  412  ssh gautvenk@sjc-ads-1403
+  413  ssh gautvenk@sjc-ads-1403
+  414  ifconfig
+  415  ifconfig
+  416  ping 127.0.0.1
+  417  ifconfig
+  418  ifconfig
+  419  ssh 192.168.56.1
+  420  ping 192.168.56.1
+  421  ping 192.168.56.101
+  422  ssh 192.168.56.101
+  423  ping 192.168.56.101
+  424  ifconfig
+  425  ssh gautvenk@192.168.56.101
+  426  ping 192.168.56.101
+  427  ssh gautvenk@192.168.56.101
+  428  vim ~/.ssh/known_hosts
+  429  ssh gautvenk@192.168.56.101
+  430  ssh gautvenk@192.168.56.101
+  431  ssh gautvenk@192.168.56.101
+  432  ssh gautvenk@192.168.56.102
+  433  ssh gautvenk@192.168.56.103
+  434  ssh gautvenk@192.168.56.103
+  435  cd Desktop/office/insieme/aci-features/noiro/
+  436  ls
+  437  scp gautvenk@171.70.59.95:/nobackup/gautvenk/Kub*.* .
+  438  exit
+  439  pwd
+  440  ls
+  441  ssh gautvenk@sjc-ads-1403
+  442  ssh gautvenk@192.168.56.103
+  443  docker version
+  444  cd ws
+  445  ls
+  446  pwd
+  447  cd ..
+  448  ls
+  449  mkdir docker
+  450  rm -rf docker/
+  451  mkdir docker-ws
+  452  cd docker-ws/
+  453  docker run hello-world
+  454  docker ps
+  455  pwd
+  456  ls
+  457  vim package.json
+  458  vim index.json
+  459  mv index.json index.js
+  460  ls
+  461  vim Dockerfile
+  462  docker build .
+  463  vim Dockerfile
+  464  docker build .
+  465  vim Dockerfile
+  466  docker build .
+  467  docker build -tag gautvenk/simpleweb .
+  468  docker build -t gautvenk/simpleweb .
+  469  docker run gautvenk/simpleweb
+  470  docker run -p 5000:8080 gautvenk/simpleweb
+  471  vim Dockerfile
+  472  docker build -t gautvenk/simpleweb .
+  473  docker run gautvenk/simpleweb
+  474  docker ps
+  475  history > cmd.txt
+  476  docker ps
+  477  docker ps -all
+  478  docker ps --all
+  479  docker log 8fda359af6e3
+  480  docker logs 8fda359af6e3
+  481  pwd
+  482  history >> cmd.txt 
+  483  vim cmd.txt 
+  484  cd frontend/
+  485  ls
+  486  cd src
+  487  ls
+  488  vim App.js 
+  489  history >> ../cmds.txt 
